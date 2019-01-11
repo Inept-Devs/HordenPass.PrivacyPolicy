@@ -1,0 +1,2 @@
+# HordenPass.PrivacyPolicy
+Privacy Policy
